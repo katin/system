@@ -16,7 +16,7 @@ Creates a new ssh key pair and displays the public key to easily copy to your gi
 Sets your local git identity and test the corresponding ssh key with github.com to make sure it's set up and working. From then on, it's push and pull commands all day long without ever entering a password.
 
 Go even faster with a data file of account names.
-github quick keys documentation is in the github-quickkeys.md file.
+github quick keys documentation is in the [github-quickkeys.md](./github-quickkeys.md) file.
 
 ----
 

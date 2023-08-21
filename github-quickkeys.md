@@ -1,4 +1,4 @@
-Two scripts and a data file to make using github repos fast and easy.
+Two scripts and a data file to make using github repos fast, secure, and easy.
 
 ### Problem
 With upgraded security, github.com doesn't allow you to push repos or access private repos with your account password any longer. You have to create and use tokens, which expire and hard to use. Copy, paste, keychains, or twisted utilities to auto-supply it as needed.
