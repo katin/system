@@ -1,0 +1,10 @@
+# github contexts data file
+# should be named "github-contexts.dat"
+#
+# format: "context-name","username","account-email-address"
+#
+# 230820 KBI created
+
+"context-name","github-username","email@address.com"
+
+
